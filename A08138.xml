@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iune 26. Numb. 37. More nevves; containing, the troubles in the emprire vpon the comming of Bethlem Gabor As also, Mounsieur Tillies quartering in Hessenland. Brunsvvicks muster, forces, and march. Mansfields stay of the ships of Embden, for the carrying away of his army. The King of Denmarkes forwardnesse. The continuance of the siege of Warendorp, by the Baron of Anholt. The preparations of Don Cordoua, Spinola, and the Prince of Orange for the field. The last newes of the Grisons. Together with, the continuation of our former newes.</title>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A08138</idno><idno type="EEBO-CITATION">99852524</idno>
+  <idno type="VID">17849</idno>
+  <idno type="EEBO-PROQUEST">2264201226</idno>
+  <idno type="STC">STC 18507.116</idno>
+  <idno type="STC">STC 11793</idno>
+  <idno type="STC">ESTC S117309</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A08138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17849)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1546:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iune 26. Numb. 37. More nevves; containing, the troubles in the emprire vpon the comming of Bethlem Gabor As also, Mounsieur Tillies quartering in Hessenland. Brunsvvicks muster, forces, and march. Mansfields stay of the ships of Embden, for the carrying away of his army. The King of Denmarkes forwardnesse. The continuance of the siege of Warendorp, by the Baron of Anholt. The preparations of Don Cordoua, Spinola, and the Prince of Orange for the field. The last newes of the Grisons. Together with, the continuation of our former newes.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Eliot's Court Press] for Nathaniel Butter, and Thomas Archer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer from STC.</note>
+                  <note>Formerly STC 11793.</note>
+                  <note>Now = Newsbooks 113.</note>
+                  <note>Identified as STC 11793 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Thirty Years' War, 1618-1648 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17849:1"/>
+            <p>
+               <hi>June</hi> 26. <hi>Numb.</hi> 37.</p>
+            <p>MORE NEVVES; <hi>CONTAINING,</hi> THE TROVBLES IN THE EMPIRE VPON THE comming of <hi>Bethlem Gabor.</hi>
+            </p>
+            <p>AS ALSO, <hi>Mounsieur</hi> TILLIES quartering in <hi>Hessenland.</hi>
+            </p>
+            <p>BRVNSVVICKS Muster, Forces, and March.</p>
+            <p>
+               <hi>Mansfields</hi> stay of the Ships of <hi>Emb<g ref="char:EOLhyphen"/>den,</hi> for the carrying away of his Army.</p>
+            <p>The King of DENMARKES forwardnesse.</p>
+            <p>The Continuance of the siege of <hi>Warendorp,</hi> by the Baron of <hi>Anholt.</hi>
+            </p>
+            <p>The Preparations of <hi>Don Cordoua, Spinola,</hi> and the Prince of <hi>Orange</hi> for the field.</p>
+            <p>The last newes of the GRISONS.</p>
+            <p>
+               <hi>Together with,</hi> The Continuation of our former Newes.</p>
+            <p>LONDON, Printed for <hi>Nathaniel Butter,</hi> and <hi>Thomas Archer,</hi> 1623.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:17849:2"/>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+            <p>heredetary lands of <hi>Enns</hi> in <hi>Austria;</hi> which ha<g ref="char:EOLhyphen"/>uing beene heeretofore pawned to the Duke of <hi>Bauaria,</hi> should in lieu of the vpper Pallatinate which he now purposed to estate vpon the Duke, be restored vnto him againe. Which two busines<g ref="char:EOLhyphen"/>ses, after he had dispatcht, he promised to returne into <hi>Bohemia</hi> againe, and to call a Parliament for the taking away of all grieuances, all Courts of Iustice should in the meane time goe on as they had done heretofore. This they write from <hi>Prague,</hi> Iune 3.</p>
+            <p>After this the Cardinall of <hi>Didrechstein,</hi> who is owner of the towne of <hi>Niclaesburgh,</hi> waiting vpon the Empresse and the young Princesse thither to the Emperour, they all within two daies after and vpon the two and twentieth of May, returned to <hi>Vienna.</hi> Vpon the way towards <hi>Vienna,</hi> the Tur<g ref="char:EOLhyphen"/>kish Embassador hauing beene purposely sent for to <hi>Constantinople,</hi> and threatned that if he came not home the sooner, he should but come time enough to be strangled: making now haste home<g ref="char:EOLhyphen"/>wards, went to see the Emperour, and to view his personage throughly and well, that so he might vpon his owne knowledge and eie-sight report it, that the Emperour was yet aliue: for that not on<g ref="char:EOLhyphen"/>ly the Turkes about <hi>Offen</hi> and <hi>Buda</hi> in Hungaria, did verily beleeue that he was dead, but the ru<g ref="char:EOLhyphen"/>mor was also gotten as farre as <hi>Constantinople,</hi> and passed for currant in the great Turkes Court; as the <hi>Chiaux</hi> or messenger which came from thence to fetch home the Embassador, affirmed it.</p>
+            <pb n="3" facs="tcp:17849:2"/>
+            <p>Vpon the Emperours comming home to <hi>Vien<g ref="char:EOLhyphen"/>na,</hi> the States of <hi>Austria</hi> being still at their Diet or Land-day, it was concluded, that Embassa<g ref="char:EOLhyphen"/>dors should forthwith be dispatcht to the Duke of <hi>Bauaria,</hi> to know his resolution, whether hee would be willing (vpon such termes as we haue before specified) to disengage the land of <hi>Enns:</hi> till when the Garrisons of the Duke of <hi>Bauaria</hi> lie still in the seuen townes of <hi>Enns,</hi> which vex the in<g ref="char:EOLhyphen"/>habitants mightily, who haue beene compelled to pay 30000. Florins a month (besides their di<g ref="char:EOLhyphen"/>et) vnto the souldiers: each Florin being worth 3. shillings English.</p>
+            <p>And for the Dyet in <hi>Hungary</hi> it is hitherto put off, for that the Subiects would accept of no Deputie from the Emperour; whereupon was the Pallatine of <hi>Hungary</hi> himselfe and diuers o<g ref="char:EOLhyphen"/>ther Lords faine to come to the Emperour, to certifie him so much. So confident hath the gene<g ref="char:EOLhyphen"/>rall feare of <hi>Bethlem Gabors</hi> neerenesse made them; that they now thinke it their best time to vrge the Emperour to confirme their priuiledges, when he hath so sudden need of their seruice. Whose comming hath already giuen the Alarme to the countreys of <hi>Morauia</hi> and <hi>Silesia,</hi> where eue<g ref="char:EOLhyphen"/>ry man hath betaken himselfe already vnto his Armes, which they feare euery houre to haue need of.</p>
+            <p>Vpon the nineteenth of May, went the Count <hi>de Negromonte,</hi> who is the Emperours Generall in <hi>Morauia,</hi> towards <hi>Conings Graets,</hi> to forme the
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:17849:3"/>
+               <hi>lem Gabor</hi> at euery turne: but this is not as yet in any forwardnesse. Other small troopes of 370. men there be mentioned to be leuied in <hi>Austria,</hi> which are quartered euery where in 10. or 12. mar<g ref="char:EOLhyphen"/>ket townes, as <hi>Mulvierdiet, Sarlutzbach, Koorbach, Lamvelteu, Newmarcke, Stuttell,</hi> &amp;c. but these are feared by the Protestants to be rather imployed to hinder the exercise of their Religion, (many Chur<g ref="char:EOLhyphen"/>ches hauing beene of late shut vp there, and the Preachers put away, Popish Priests being put in their roomes) than that they are for the present to be sent out of the Country.</p>
+            <p>Now for <hi>Bethlem Gabor,</hi> the letters of <hi>Hungarie</hi> affirme constantly, that there are already 15000. Tartars for him at <hi>Canisia</hi> in <hi>Hungarie,</hi> and great store of Turks which are already come to <hi>Offen</hi> and <hi>Gran,</hi> all which are places bordering vpon the Emperour: of which Turks, 12000. are named to be Ianisaries, which are the best sort of Foot that the Turke hath. The Bassa of <hi>Buda</hi> is himselfe in person resolued to come into the field, and that as much as can be perceiued by him, he is purposed to inuade the Countrey of <hi>Stiria,</hi> as Colonell <hi>Rippen<g ref="char:EOLhyphen"/>bock</hi> wrote vnto the Emperour out of <hi>Hungarie,</hi> May 24. since which time it is also confirmed, that he is fallen into <hi>Stiria:</hi> which countrey being the Emperours owne inheritance, lies betwixt the two great flouds of <hi>Danubius</hi> and <hi>Dravus,</hi> the riuer <hi>Mura</hi> (which is the chiefest water of <hi>Stiria</hi>) fal<g ref="char:EOLhyphen"/>ling into the <hi>Dravus,</hi> in the very confines of the countrey.</p>
+            <pb n="7" facs="tcp:17849:3"/>
+            <p>It lyes also vpon <hi>Hungary</hi> and <hi>Austria,</hi> being vpon the South-side and left hand of <hi>Austria,</hi> as <hi>Morauia</hi> &amp; <hi>Silesia</hi> are on the North, and right hand. By which it appeares, that <hi>Bethlem Gabor</hi> purposes to bring two Armies into the Field, so to hem in <hi>Austria</hi> on both sides; one of which, he making for <hi>Silesia,</hi> is led by his owne brother, and <hi>Iegerensdorffe</hi> and <hi>Thourne,</hi> and the other (you see) by this <hi>Bassa</hi> of <hi>Buda.</hi> Which designe of the Turkes the Emperour (it seemes) had a maine suspition of before; and therefore sent vnto him before hand, to diuert him, if it were possible; telling him, that hee had now made a full peace in the Empire with all his enemies, and that he was vp<g ref="char:EOLhyphen"/>on the point of dispatching the Turkish Ambassa<g ref="char:EOLhyphen"/>dor, with whom he had a purpose to send an Ambas<g ref="char:EOLhyphen"/>sador of his owne vnto <hi>Constantinople,</hi> to accord all betwixt himselfe and the great Turke: but for all this, the <hi>Bassa</hi> it appeares, went on with his first resolu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Bethlem Gabor</hi> himselfe, was the first of Iune a<g ref="char:EOLhyphen"/>bout holding of a Land-day at <hi>Clausenberg,</hi> gathe<g ref="char:EOLhyphen"/>ring still neerer vpon the Emperour, his carriages, munition, and most of his warlike prouision, was euen then loaden for a present march. He is said to be 40000. strong at least, and wants neither friends, nor money, nor Armes, nor victuals, nor any thing fit for a Souldier; if he goes but on with that resolu<g ref="char:EOLhyphen"/>tion, which the World may expect in any man, that would make such great preparations: and besides all this, he may haue 40000. Turkes more, for the cal<g ref="char:EOLhyphen"/>ling for.</p>
+            <p>You heard before of the Emperours message to
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:17849:4"/> troubled with them, they shall haue all necessaries sent them to their Leaguer. And there are yet more Commissions giuen out, for the leuying of some thousands of Horse, and some other Regiments of Foote; which with the rest, are said to be drawen vp towards the Frontiers of <hi>Saxony</hi> and <hi>Brandenburgh,</hi> and are to take vp their quarters about <hi>Cichsfelt,</hi> the Duke <hi>Christian</hi> lying in <hi>Brunswickland,</hi> which three Countries are (next to <hi>Hessen</hi>) neerest to an Inuasion from <hi>Monseur Tillyes</hi> Army. And him wee come next to speake of.</p>
+            <p>Him we left in our last, printed Iune 16. in the Bi<g ref="char:EOLhyphen"/>shopricke of <hi>Hirschvelt</hi> in the Land of <hi>Hessen,</hi> where he was at first friendly receiued, and by reason that they well hoped, that hee would doe no more but passe by them. But there (notwithstanding their hopes) hee tooke vp his quarters, and thence one of his owne wrote thus much, <hi>Iune</hi> 3. Wee yet lye still with our Army about <hi>Hirschveld,</hi> by reason that we cannot learne as yet, any certainty of the enemies designe, the Countrey in the meane time suffers much damage by vs, and the more, for that our Companies are daily encreased. And although our Generall would willingly spare the Subiects of the Landgraue, yet can he not keepe the Souldiers from flying out. There are yet sixe Regiments of Horse and Foote together, to come to ioyne with our Ar<g ref="char:EOLhyphen"/>my, out of <hi>Franconia</hi> (or <hi>Franckenland</hi>) and vntill we heare of the enemies stirring, we haue no certain<g ref="char:EOLhyphen"/>ty of our owne rising.</p>
+            <p>From <hi>Franckford</hi> againe they write <hi>Iune</hi> 6. That his Forces did euen then lye still in the Bishopricke
+<pb n="11" facs="tcp:17849:4"/> of <hi>Hirschfeld,</hi> nor could they learne any certaintie of his further intention, onely his Rendezvous was ap<g ref="char:EOLhyphen"/>pointed in this <hi>Hirschfeld</hi> to be vpon the 8 of Iune, when the Army was to meet.</p>
+            <p>The Duke of <hi>Bauaria</hi> hath paid th<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Army for foure moneths, and hath reformed 15 Troopes of Horse, hauing cashierd the Officers. The newes holds still of his numbers, namely that the Army consists of 56 Cornets of Horse, and of 8 Regiments of Foote, one new Regiment being vpon comming to him.</p>
+            <p>As for those sixe Regiments which are to come out of <hi>Franconia,</hi> see their seuerall dayes marches, out of the Letters from <hi>Fulda</hi> by <hi>Hessenland, Iune</hi> 7. they will bee this day at <hi>Bishopsheim,</hi> to morrow at <hi>Hilden,</hi> for whence they are to march toward <hi>Olster.</hi> There are some certaine Commissioners of <hi>Wurten<g ref="char:EOLhyphen"/>burgh</hi> sent downewards as Commanders, and they are to ioyne themselues to the rest of the Army a<g ref="char:EOLhyphen"/>bout <hi>Vach.</hi> It is said that there is yet another thou<g ref="char:EOLhyphen"/>sand to follow them.</p>
+            <p>At this instant there comes newes that about <hi>Geisa</hi> there is Quarter taken vp for 2000 Horse. The Count of <hi>Isenack</hi> is yet in the <hi>Rul.</hi> Thus farre the Letters. By which you may see their marche from <hi>Bishopsheim</hi> in <hi>Franconia,</hi> neare to the vpper Palati<g ref="char:EOLhyphen"/>nate, vnto <hi>Vach</hi> and <hi>Geisa,</hi> which are neare to the Bishoprickes of <hi>Fulda</hi> and <hi>Hirschfelt</hi> in the Land of <hi>Hessen.</hi>
+            </p>
+            <p>But before these new Regiments could haue comne in, there was likely to haue beene a battell strucke, had not <hi>Monseur Tillies</hi> Espials done him the better seruice, by intercepting of a Letter, which be<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:17849:5"/> written by the <hi>Duke</hi> of <hi>Brunswicke,</hi> vnto the Count of <hi>Mansfield,</hi> fell into his hands to whom it was neuer directed. The purport of the Letter was to tell Count <hi>Mansfield,</hi> that hee <hi>(Brunswicke)</hi> three dayes before Whitsonday was resolued to marche vp to fight with <hi>Tilly,</hi> and desired <hi>Mans<g ref="char:EOLhyphen"/>field</hi> to direct himselfe accordingly, that they might meet together with their Armies, about the side of <hi>Isveldt,</hi> and ioyne their Forces. This Designe of <hi>Brunswicke</hi> and <hi>Mansfield</hi> being thus discouered to <hi>Tilly,</hi> hee presently stopt vp that passage. Thus write the Letters from <hi>Lieshuzen</hi> by <hi>Stegenheim</hi> in <hi>Hessen<g ref="char:EOLhyphen"/>land, Iune</hi> 7.</p>
+            <p>By which you see the Duke of <hi>Brunswickes</hi> cou<g ref="char:EOLhyphen"/>rage to be doing: the correspondency betwixt him and the <hi>Count of Mansfield,</hi> and the nearnesse of their Armies to succour one another vpon occasion. We will now goe on with the Duke of <hi>Brunswicke,</hi> who hauing refused the conditions of the pardon broght vnto him by the Lord <hi>Iohn vander Reck,</hi> (who wee told you was sent Ambassador from the Emperor to the Lower Crietz of <hi>Saxony</hi>) prepared himselfe in<g ref="char:EOLhyphen"/>continently to take the Field.</p>
+            <p>Nor did his owne mother and brother any whit preuaile with the King of <hi>Denmarke</hi> vnto whom they tooke a iourney vnto <hi>Steenbach</hi> in the Duchy of <hi>Hol<g ref="char:EOLhyphen"/>stein,</hi> to request the King to be a meanes to perswade <hi>Duke Christian</hi> to accept of that pardon and fayre promises of the Emperour. But the King thought it would proue but a hard suit to perswade with a yong Prince who wants no courage, so sodainly to quitt so fayre an armie that wants no necessaries.</p>
+            <pb n="13" facs="tcp:17849:5"/>
+            <p>But what perswas<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ues soeuer haue beene made either in earnest or in show, <hi>Brunswicke</hi> yet keepes his Army together. And it is a faire one, full of gal<g ref="char:EOLhyphen"/>lants, and braue Commanders, which both out of the Low-countries, from <hi>Mansfields</hi> army hereto<g ref="char:EOLhyphen"/>fore, and from other places of the Empire, haue flockt vnto him, and still doe daily. He is held to bee 28000. strong, excellently well prouided of Canon, armes, munition, money; victuals, friends, and the loue of his souldiers. Amongst the rest he was 5000 braue Horse and better, about a sixe weekes since, which number is now encreased. See here the List of his Army according to his muster-bookes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="list_of_army_companies">
+                        <head>The Muster of Duke <hi>Christians</hi> Army, as it is written vnto vs from the City of <hi>Bremen,</hi> as followeth.</head>
+                        <list>
+                           <head>Cornets of Horse.</head>
+                           <item>THe Duke himselfe be<g ref="char:EOLhyphen"/>ing Generall, hath <hi>Cor<g ref="char:EOLhyphen"/>nets</hi> 6</item>
+                           <item>The Graue of <hi>Stirum</hi> 5</item>
+                           <item>
+                              <hi>D. Fredericke</hi> of <hi>Altenb.</hi> 10</item>
+                           <item>The Collonell <hi>Weitsdall</hi> 4</item>
+                           <item>
+                              <hi>D.</hi> of <hi>Saxon Weimar.</hi> 5</item>
+                           <item>Yong C. of <hi>Thurn.</hi> 10</item>
+                           <item>C of <hi>Eysenbroeck</hi> 10</item>
+                           <item>Leiutenant Colonell <hi>Gremsback.</hi> 4</item>
+                           <item>The Collonel <hi>Gem.</hi> 2</item>
+                           <item>The totall 56. Cornets of Horse.</item>
+                        </list>
+                        <p>Which are as many as <hi>M. Tilly</hi> hath, whose Mu<g ref="char:EOLhyphen"/>sterroll we gaue you in our last, printed Iune 16.</p>
+                        <list>
+                           <head>The Foot Companies according to their Regiments.</head>
+                           <item>THe <hi>Dukes</hi> owne 3000</item>
+                           <item>
+                              <hi>D.</hi> of <hi>Saxen Wey.</hi> 4000</item>
+                           <item>
+                              <hi>D. Arut</hi> of <hi>Weymar.</hi> 3000</item>
+                           <item>Colonel <hi>Spier.</hi> 3000</item>
+                           <item>Col <hi>Kniphowsen</hi> 3000</item>
+                           <item>Collonell <hi>May.</hi> 2000</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:17849:6"/>
+            <p>content, that hee hath lately againe commanded publique and Souldiour like signes of Ioy to bee showne in his Army; Some of the best of the newes is, that some of them haue brought 400000. crowns with them. After all this, he hath mustered the most part of his Armie, and all the shippes about Embden are staid, to transport his Souldiers either to <hi>Bremen,</hi> or into the Low Countries, as wee heare at Amster<g ref="char:EOLhyphen"/>dam, say the Letters thence. And what composition soeuer the Count <hi>Enno</hi> of Embden hath made for himselfe, as what friendship the King of <hi>Denmarkes</hi> Ambassadours mediation hath done for him with Count <hi>Mansfeild;</hi> this now they write, that he is in person with his sonne gone to the towne of Emden. And thus though Count <hi>Mansfeild</hi> lyes still, yet hee lyes not idle; and that enemy must rise betimes, that takes him sleeping.</p>
+            <p>Having vpon this occasion mentioned the King of Denmarke, wee will dispatch his businesse toge<g ref="char:EOLhyphen"/>ther; Whose Army is sayd to be 12000. strong alrea<g ref="char:EOLhyphen"/>dy, it lies vpon the river of Elbabour Hamborrough and those places in Holsatia, where himselfe is also sayd to be in person.</p>
+            <p>Of the businesse for the making of his sonne Bi<g ref="char:EOLhyphen"/>shop of Osnabrugg, this they write from that very Towne, Iune 1. The Deane and Chapter here haue without the privitie or consent of the Councell, and the Knighthood of the Bishopricke, elected the Count of <hi>Hohenzollern</hi> for their new Bishop. This Count is a Cardinall of the Church of <hi>Rome,</hi> and is at <hi>Rome</hi> at this present. He is moreouer Provost or Prior of the severall Cathedrall Churches which be at <hi>Cullen, Hildesheim</hi> &amp; <hi>Meydenburgh.</hi> The Counsell, the Knighthood, and the Citizens being disconten<g ref="char:EOLhyphen"/>ted
+<pb n="17" facs="tcp:17849:6"/> with this election, haue levyed 1000. men to de<g ref="char:EOLunhyphen"/>fend themselues from the Forces of the Baron of Anholt; which Baron of Anholt hath marryed the sister of the sayd Count and Cardinall of <hi>Hohenzol<g ref="char:EOLhyphen"/>lern</hi> (by which you may see the reason of his earnest<g ref="char:EOLhyphen"/>nes to make vp towardes this Bishopricke). Anholt hath already taken the most of the Country, &amp; got<g ref="char:EOLhyphen"/>ten possession for his brother in law; and now hee threatens Osnabrugg it selfe. And although the Towne hath for its own safeguard, lately levyed ve<g ref="char:EOLhyphen"/>ry many Companies, of lusty yong Townsmen; yet haue the Hanse townes offered them their best assi<g ref="char:EOLhyphen"/>stance, in case that the Baron of Anholt should sett vpon them. Thus farre the Letters.</p>
+            <p>Now for the Baron of Anholts other Designes; part of his Army lyeth yet before the towne of Wa<g ref="char:EOLhyphen"/>rendorp, as they write from <hi>Cullē</hi> May 28. And those that came out of the Bishopricke of Munster (where Warendorp stands) report (say the letters from <hi>Rees</hi>) that the towne does as yet defend it selfe brauely a<g ref="char:EOLhyphen"/>gainst the Barons forces: and in severall Sallies, haue slaine 600. of the Besiegers. The towne hath yet ne<g ref="char:EOLhyphen"/>verthelesse, in the meane time, sent their Commissi<g ref="char:EOLhyphen"/>oners vnto the Princes &amp; States of the lower <hi>Creitz</hi> of Saxony, to complain of the vniust dealings of the Baron of Anholt; who hath without any cause or fault of theirs, set him down to beleager their town; in which case, they earnestly request the ayd of their Confederates of the lower Saxony. But what will be the issue, time will shew. Thus farre the Letters.</p>
+            <p>The Drummes are daily beaten vp in Cullen, and thereabouts, to levy more Souldiers for the Baron; but there are but few that come to offer their service by reason of the bad payment. And besides this, the
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:17849:7"/> are about to doe. But for those obedient forces of <hi>Spinolaes,</hi> they are (as they say) to be drawne shortly into the field, &amp; a Camp of 10000. is to be formed. And those 4000. Burgundians which are newly le<g ref="char:EOLhyphen"/>vied, are now vpon their march towards him: Their way is through the country of <hi>Luxemburgh,</hi> whence they are to come towards <hi>Namur.</hi> The first of Iune they were at <hi>Duren;</hi> &amp; some thinke that they crosse the Rhyne about <hi>Duffeldorp.</hi>
+            </p>
+            <p>There are moreouer some thousands of low Dutch and Wallons, both horse and foote to be levied. The Germans are likewise to reen force their Regiments; &amp; the remainder of the souldiers which are to come out of <hi>Spaine,</hi> are also daily expected. <hi>Spinola</hi> hath al<g ref="char:EOLhyphen"/>so newly victualled and fortified S. <hi>Hertogenbosh,</hi> and hath built a new Skonse hard by it, to assure it the better. And thus goe the Letters from these parts.</p>
+            <p>On the other side, they begin also to talke of going into the field, and of having a Leager about Emme<g ref="char:EOLhyphen"/>rick or <hi>Rees.</hi> And that for such a purpose, the Prince of <hi>Orange</hi> hath already sent great store of Ship-brid<g ref="char:EOLhyphen"/>ges, Ordnance, &amp; Munition that way. For out of the Arsenall of the towne of <hi>Delft</hi> is all the Ordnance &amp; Artillery taken and shipt away; certain pieces of Ar<g ref="char:EOLhyphen"/>tillery haue lately beene cast and tryed at the Hage, and being found good, are likewise shipped away; so as something is daily expected. Some new levies are also a making: one Captain <hi>Gent,</hi> (who commands a troope of horse) is named to haue gotten commissi<g ref="char:EOLhyphen"/>on from the Marquesse of Brandenburgh, to levie 4000. foote, and 600. horse, in his Countryes.</p>
+            <p>Something hath also beene already done. The horsemen of the States ranging abroad a while, haue, fetcht from before the gates of the towne of Rure<g ref="char:EOLhyphen"/>mond
+<pb n="21" facs="tcp:17849:7"/> in Brabant (which belongs to the enemy) 400 head of cattell: All which the owners afterward redeemed, pay<g ref="char:EOLhyphen"/>ing 4. Rix dollars for euery Beast. After that againe, some other horsmen of the States lying abroad about the town of Mastrich, met with certain Carts laden with merchants goods comming out of Brabant, which they made prize of, and carried the Carters along with them, to driue the Carts. As for their Sea-businesse; they write vs word from Amsterdam; that 60 Turkish men of warre of <hi>Argier</hi> &amp; <hi>Thunis,</hi> were lately come in and ioined with their fleet, which went out vnder Admirall <hi>L'Hermite,</hi> and that they had bin seene together vpon the coast of Spaine. Of Ano<g ref="char:EOLhyphen"/>ther Fleere of Hollanders also, which was sent towardes the red sea, they had tydings out of Spaine, at <hi>Amsterdam</hi> Iune 9. how that they meeting with foure great Caracks of Portugall, they made them run a-ground, where they perished: This ill newes (say the Letters) causeth much griefe here, for they had rather haue seene the rich hulkes brought home into Holland, then heare that they were perished. More also they write off that they of Zealand haue lately taken another Ship laden with sugars, Sallet-oyles, &amp; other Commodities, which they haue brought with them into Flushing.</p>
+            <p>For the Grisons businesse, thus they write from Venice Iune 2. The Duke of <hi>Fiano</hi> who is the Popes generall for the Valtoline, hath sent Poast vnto Rome, to entreate his brother the Pope, that the Earledome of Cleue in the Grisons country, which belongeth likewise vnto the Val<g ref="char:EOLhyphen"/>toline: might be also consigned ouer into his hands, with the rest of the country. I his Poast is now returned from Rome and the Duke who hath hitherto bin at Millaine, is now marcht towards <hi>Como</hi> (the neerest part of the Dut<g ref="char:EOLhyphen"/>chy of Millaine vnto the Valtoline, <hi>Lago di Como,</hi> being close by it) but he does not (as they say) entend to Muster
+<pb n="22" facs="tcp:17849:8"/> his Forces, vntill his Lieutenant the Marquesse of <hi>Bagri</hi> be come vp to him from Rome. The Commissioners of the Valtoline which they lately sent to Rome, to obteine the confirmation of their Priviledges from the Pope, are returned with content: and one of them (the Knight <hi>Ro<g ref="char:EOLhyphen"/>bustelli</hi> is made chiefe Iustice in the Valtoline. The Com<g ref="char:EOLhyphen"/>monaltie of Valtoline, are (it seemes) desirous to be a free Canton, Bundt, or Confederation by themselues for euer hereafter; and not to haue any more to doe with the rest of the Grisons; vnto whom for their pretensions and de<g ref="char:EOLhyphen"/>mands, they are contented to giue 6000. Crownes yeare<g ref="char:EOLhyphen"/>ly as an acknowledgement.</p>
+            <p>The Spanish Ambassadour Signeur <hi>Cassaty,</hi> who hath laine in Switzerland, is now gone to the generall meeting of the Cantons of Switzerland at <hi>Solothurn;</hi> to worke that conclusion to be againe confirmed, which was made by the Catholiques at Lucerne; which was, that they would not make any new League with <hi>France.</hi>
+            </p>
+            <p>The French King in the meane time, earnestly vrgeth the restitution of the Valtoline. And some beleeue, that Count <hi>Mansfeild</hi> is by his appointment to march vp through Lorrayne and Burgundye, in case that it bee not delivered at the time appointed.</p>
+            <div type="part">
+               <head>From Constantinople Aprill <hi>19.</hi>
+               </head>
+               <p>The Turkes and Polanders notwithstanding the peace, doe still make inroades one vpon another. The Cosacks haue lately pillaged some places of the Turkes lying vp<g ref="char:EOLhyphen"/>on the blacke Sea. The Muskovite Ambassadour was therefore arrested at the gates of <hi>Constantinople,</hi> for that the Emperour his Master, had given these Cosacks and Polanders leaue, to passe over the River of Boristhenes, which is in his Country.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
